@@ -32,8 +32,7 @@ else:
         if u == user:
             p = str(input('Enter Password: '))
             if p == pw:
-                print ('Welcome To The Program')
-                input()
+                import menu.py
         else:
             print('Incorrect')
 
