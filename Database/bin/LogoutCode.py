@@ -9,7 +9,7 @@ def log():
         print('Logging Out')
         time.sleep(1)
     elif logout == ('no'):
-        import menu
+        import menu.py
     else:
         print('Please Enter [yes] Or [no]')
         log()

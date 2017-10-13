@@ -8,5 +8,5 @@ for line in file:
     database = line.split(",")
     students = (database[0]+','+database[1]+','+database[2])
     print(students)
-    input()
+uid = input('Enter The Students Unique ID: ')
     
