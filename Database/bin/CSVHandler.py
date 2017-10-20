@@ -4,7 +4,7 @@
 
 fname = str(input('What is the students First Name? '))
 sname = str(input('What is the students Last Name? '))
-uid =(input('What is the students Unique ID: '))
+uid = input('What is the students Unique ID: '))
 dob = input('What is the students Date Of Birth? ')
 haddress = str(input('What is the students Home Address? '))
 hnumber =(input('What is the students Home Phone Number? '))
